@@ -5,6 +5,8 @@
 
 **Emmanuel Fornah** · Dallas, TX · March 2026
 
+**🔗 Live demo:** https://d34bjjo7beufyg.cloudfront.net
+
 > **Project status.** This repository implements the Products and Orders
 > services (React/Vite frontend, API Gateway, two Python Lambdas, DynamoDB,
 > S3 + CloudFront hosting, SAM IaC, and a CI/CD pipeline). Sections 1 and 2
@@ -485,6 +487,13 @@ The following are designed but not yet implemented in this repository:
 - **Backend unit tests** — pytest + moto for the Lambda handlers
 
 ---
+
+## Where This Fits
+
+Part of [`aws-solutions-portfolio`](https://github.com/emmanuelfornah/aws-solutions-portfolio) —
+this is one of four flagship, independently-designed projects there; see that
+repo for the full breadth of AWS work plus certifications and current
+graduate coursework.
 
 ## Author
 
