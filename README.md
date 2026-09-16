@@ -5,7 +5,7 @@
 
 **Emmanuel Fornah** · Dallas, TX · March 2026
 
-**🔗 Live demo:** https://d34bjjo7beufyg.cloudfront.net
+**🔗 Live demo:** https://pedalworks.emmanuelfornah.com
 
 > **Project status.** This repository implements the Products and Orders
 > services (React/Vite frontend, API Gateway, two Python Lambdas, DynamoDB,
